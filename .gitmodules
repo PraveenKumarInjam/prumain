@@ -1,0 +1,6 @@
+[submodule "FW"]
+	path = FW
+	url = https://github.com/NeeharicaPallapati/FW.git
+[submodule "Prucom"]
+	path = Prucom
+	url = https://github.com/NeeharicaPallapati/Prucom.git
